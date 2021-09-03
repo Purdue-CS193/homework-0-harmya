@@ -7,4 +7,4 @@
 
 
 ## How I feel attending the CS193 Class:
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+![Alt Text] (https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47peru8e1obg361633z6nxe54atoozsa8m3n6lm4gu&rid=giphy.gif&ct=g)
