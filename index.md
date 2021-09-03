@@ -7,4 +7,4 @@
 
 
 ## How I feel attending the CS193 Class:
-![Alt Text] (https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+![](http://i.imgur.com/OUkLi.gif)
